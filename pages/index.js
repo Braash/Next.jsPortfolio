@@ -1,4 +1,4 @@
-import Header from '../components/Header.js' //Import Header.
+import Header from 'components/Header.js' //Import Header.
 
 //This component 
 const Layout = (props) => (
